@@ -1,0 +1,32 @@
+■コーポレートのWP
+https://geocreates.net/wp-login.php
+ユーザー名： Geocreates
+パスワード： wXg#9hiZT!@h$bGleM
+
+■FTP設定情報　※指示されたのが以下の情報で合ってるのか分かってないので不足有れば教えてください。
+FTPサーバ
+geocre5.sakura.ne.jp
+FTPアカウント
+geocre5
+初期フォルダ
+www
+
+
+
+LP domain
+https://geocreates.net/virtualhinankunren-lp/ 
+
+■コーポレートのWP
+https://geocreates.net/wp-login.php
+ユーザー名： Geocreates
+パスワード： wXg#9hiZT!@h$bGleM
+
+■FTP設定情報　※指示されたのが以下の情報で合ってるのか分かってないので不足有れば教えてください。
+FTPサーバ
+geocre5.sakura.ne.jp
+FTPアカウント
+geocre5
+初期フォルダ
+www
+パスワード
+jfU9xSnvqg-7
